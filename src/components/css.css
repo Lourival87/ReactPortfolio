@@ -1,0 +1,57 @@
+.DottedBox {
+    margin: 40px;
+    border: 5px dotted pink;
+}
+
+.DottedBox_content {
+    font-size: 15px;
+    text-align: center;
+}
+
+.um {
+    background-color: rgb(255, 66, 239);
+    color: white;
+    width: 160px;
+    height: 120px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+.dois {
+    background-color: blueviolet;
+    color: white;
+    width: 160px;
+    height: 120px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 25px;
+    font-weight: bold;
+    
+}
+
+.tres {
+    background-color: rgb(255, 196, 86);
+    color: white;
+    width: 160px;
+    height: 120px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 25px;
+    font-weight: bold;
+}
+
+.box {
+    columns: 3;
+    background-position: center;
+}
+
+.img {
+    height: 400px;
+    width: 400px;
+}
+
+.main {
+    columns: 2;
+}
